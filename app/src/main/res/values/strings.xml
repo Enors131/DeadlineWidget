@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deadlines</string>
+    <string name="widget_title">DEADLINES</string>
+    <string name="widget_empty">Tap + to add</string>
+    <string name="empty">Nothing here yet</string>
+    <string name="hint_task">Task name</string>
+    <string name="name_required">Enter a name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
